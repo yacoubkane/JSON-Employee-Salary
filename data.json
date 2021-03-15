@@ -1,0 +1,47 @@
+[
+  {
+    "Name": "Bill Gates",
+    "Address": "111 Main Street",
+    "Age": 29,
+    "MonthlyPay": 22000,
+    "DepartmentCode": "11",
+    "DevType": "Script",
+    "TaxType": "W2"
+  },
+  {
+    "Name": "Steve Jobs",
+    "Address": "222 Oak Street",
+    "Age": 31,
+    "MonthlyPay": 33000,
+    "DepartmentCode": "21",
+    "DevType": "OOP",
+    "TaxType": "1099"
+  },
+  {
+    "Name": "Elon Musk",
+    "Address": "333 South Street",
+    "Age": 27,
+    "MonthlyPay": 44000,
+    "DepartmentCode": "41",
+    "DevType": "Script",
+    "TaxType": "W2"
+  },
+  {
+    "Name": "Grace Hopper",
+    "Address": "444 Elm Street",
+    "Age": 30,
+    "MonthlyPay": 55000,
+    "DepartmentCode": "71",
+    "DevType": "OOP",
+    "TaxType": "W2"
+  },
+  {
+    "Name": "Dennis Ritchie",
+    "Address": "555 10th Avenue",
+    "Age": 37,
+    "MonthlyPay": 66000,
+    "DepartmentCode": "21",
+    "DevType": "Script",
+    "TaxType": "1099"
+  }
+]
